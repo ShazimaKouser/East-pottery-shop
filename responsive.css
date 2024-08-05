@@ -1,0 +1,1032 @@
+@media only screen and (min-width:991px) and (max-width:1326px) {
+    .navbar {
+        font-size: 25px;
+    }
+
+    .navbar1 {
+        display: none;
+    }
+
+    .nav-menu {
+        font-size: 22px;
+        height: 100px;
+    }
+
+    .text0 {
+        font-size: 18px;
+    }
+
+    .text {
+        padding-top: 0;
+        padding-bottom: 5%;
+    }
+
+    .para0 {
+        font-size: 28px;
+    }
+
+    .paragraph {
+        font-size: 20px;
+    }
+
+    .wrapper .navlinks {
+        gap: 13px;
+    }
+
+    .foot {
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+
+    .container {
+        grid-template-columns: 1fr;
+    }
+
+    .container-one {
+        grid-template-columns: 1fr;
+    }
+
+    button:after {
+        top: 0;
+        width: 100%;
+    }
+
+    img.hero {
+        height: 90%;
+    }
+
+    img.logo0 {
+        width: 20%;
+        padding: 5% 2%;
+    }
+
+    .list1 {
+        padding: 5% 8%;
+    }
+
+    .wrapper {
+        height: 100px;
+    }
+
+    .navlinks li a {
+        font-size: 25px;
+    }
+
+    .list {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        font-size: 25px;
+        width: 90%;
+    }
+
+    .E-text {
+        font-size: 28px;
+        padding-top: 10%;
+        padding-bottom: 3%;
+    }
+
+    .Email {
+        font-size: 26px;
+        height: 82px;
+    }
+
+    .arr {
+        height: 83px;
+        width: 100%;
+    }
+
+    .icon-end {
+        font-size: 75px;
+        padding-top: 3%;
+    }
+
+    .B-logo {
+        width: 100px;
+        padding-top: 40%;
+    }
+
+    .credit {
+        font-size: 30px;
+    }
+
+    .end-foot {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+    .text-1 {
+        font-size: 23px;
+        width: 100%;
+    }
+
+    .hero {
+        line-height: 1.7;
+        width: 100%;
+        text-align: center;
+        padding-top: 3%;
+    }
+
+    .scroll-set {
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    .pic {
+        width: 420px;
+        margin: auto;
+        margin-bottom: 2%;
+    }
+
+
+    .prize {
+        height: 20%;
+        font-size: 25px;
+    }
+
+    #index-sec {
+        flex-wrap: wrap;
+    }
+
+    #hero-text {
+        width: 80%;
+        padding: 8% 1%;
+        font-size: 38px;
+        text-align: center;
+    }
+
+    .video {
+        margin-top: 5%;
+    }
+
+    .btn1 {
+        padding: 18px 13%;
+        font-size: 23px;
+    }
+
+    .pic1 {
+        height: 33rem;
+    }
+
+    .HERO {
+        display: none;
+    }
+}
+
+@media only screen and (min-width:769px) and (max-width:990px) {
+    nav {
+        display: block;
+    }
+
+    .hamburger-icon .fa-bars,
+    .hamburger-icon .fa-x {
+        font-size: 48px;
+    }
+
+    .navlinks {
+        height: 75px;
+        padding-top: 2%;
+        overflow: hidden;
+        flex-direction: column;
+        align-items: center;
+        transition: all 0.5s ease-in-out;
+    }
+
+    .hamburger-icon {
+        display: block;
+    }
+
+    .fa-x {
+        display: none;
+    }
+
+    nav:has(.hamburger-icon input[type="checkbox"]:checked) .navlinks {
+        height: auto;
+        width: 100%;
+    }
+
+    nav:has(.hamburger-icon input[type="checkbox"]:checked) .fa-bars {
+        display: none;
+    }
+
+    nav:has(.hamburger-icon input[type="checkbox"]:checked) .fa-x {
+        display: inline-block;
+    }
+
+    .navbar {
+        font-size: 11px;
+    }
+
+    .navbar1 {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    .navbar1 p {
+        display: none;
+    }
+
+    .fork {
+        width: 100%;
+    }
+
+    .mug-img {
+        width: 60%;
+    }
+
+    .nav-menu {
+        display: none;
+    }
+
+    nav .wrapper {
+        padding: 1%;
+        display: flex;
+        justify-content: end;
+    }
+
+    .navbar {
+        font-size: 16px;
+    }
+
+    .navbar1 {
+        display: none;
+    }
+
+    .nav-menu {
+        font-size: 12px;
+    }
+
+    .navbar {
+        font-size: 22px;
+    }
+
+    .text0 {
+        font-size: 25px;
+    }
+
+    .text {
+        padding-top: 0;
+        padding-bottom: 8%;
+    }
+
+    .para0 {
+        font-size: 23px;
+    }
+
+    .paragraph {
+        font-size: 20px;
+    }
+
+    .wrapper .navlinks {
+        gap: 13px;
+    }
+
+    .scroll-container {
+        flex-wrap: wrap;
+    }
+
+    .foot {
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+
+    .container {
+        grid-template-columns: 1fr;
+    }
+
+    .container-one {
+        grid-template-columns: 1fr;
+    }
+
+    img.hero {
+        height: 90%;
+    }
+
+    img.logo0 {
+        width: 20%;
+        padding: 5% 2%;
+    }
+
+    .navlinks li a {
+        font-size: 19px;
+    }
+
+    .list {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        font-size: 25px;
+        width: 100%;
+    }
+
+    .E-text {
+        font-size: 28px;
+        padding-top: 10%;
+        padding-bottom: 3%;
+    }
+
+    .Email {
+        font-size: 26px;
+        height: 82px;
+    }
+
+    .arr {
+        height: 83px;
+        width: 100%;
+    }
+
+    .icon-end {
+        font-size: 75px;
+        padding-top: 3%;
+    }
+
+    .B-logo {
+        width: 100px;
+        padding-top: 40%;
+    }
+
+    .credit {
+        font-size: 30px;
+    }
+
+    .end-foot {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+    .text-1 {
+        font-size: 17px;
+        width: 100%;
+    }
+
+    .hero {
+        line-height: 1.7;
+        width: 100%;
+        text-align: center;
+    }
+
+    .scroll-set {
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    .pic {
+        width: 327px;
+        margin: auto;
+        height: 27rem;
+        margin-bottom: 21%;
+    }
+
+    .hero1 {
+        width: 100%;
+    }
+
+    .pot3 {
+        width: 100%;
+        height: 27rem;
+    }
+
+    .prize {
+        font-size: 22px;
+        height: 18%;
+    }
+
+    .foot-head {
+        font-size: 35px;
+    }
+
+    #index-sec {
+        flex-wrap: wrap;
+    }
+
+    #hero-text {
+        width: 80%;
+        padding: 8% 1%;
+        font-size: 38px;
+        text-align: center;
+    }
+
+    .video {
+        margin-top: 5%;
+    }
+
+    .btn1 {
+        padding: 10px 13%;
+        font-size: 18px;
+    }
+
+    .pic1 {
+        height: 33rem;
+    }
+
+    button:after {
+        top: 0;
+        width: 100%;
+    }
+
+    .btn2 {
+        padding: 5% 8%;
+    }
+
+    .saucer-scroll {
+        height: auto;
+        grid-template-columns: 1fr;
+    }
+
+    .saucer12 {
+        width: 50%;
+    }
+
+    .Text-N {
+        font-size: 28px;
+    }
+
+}
+
+@media only screen and (min-width:574px) and (max-width:768px) {
+    nav {
+        display: block;
+    }
+
+    .navlinks {
+        height: 68px;
+        padding-top: 2%;
+        overflow: hidden;
+        flex-direction: column;
+        align-items: center;
+        transition: all 0.5s ease-in-out;
+    }
+
+    .hamburger-icon {
+        display: block;
+    }
+
+    .hamburger-icon .fa-bars,
+    .hamburger-icon .fa-x {
+        font-size: 45px;
+    }
+
+    .fa-x {
+        display: none;
+    }
+
+    nav:has(.hamburger-icon input[type="checkbox"]:checked) .navlinks {
+        height: auto;
+        width: 100%;
+    }
+
+    nav:has(.hamburger-icon input[type="checkbox"]:checked) .fa-bars {
+        display: none;
+    }
+
+    nav:has(.hamburger-icon input[type="checkbox"]:checked) .fa-x {
+        display: inline-block;
+    }
+
+    .navbar {
+        font-size: 11px;
+    }
+
+    .navbar1 {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    .navbar1 p {
+        display: none;
+    }
+
+    .scroll-container {
+        flex-wrap: wrap;
+    }
+
+    .fork {
+        width: 100%;
+    }
+
+    .mug-img {
+        width: 60%;
+    }
+
+    .nav-menu {
+        display: none;
+    }
+
+    button:hover:after {
+        transform: skewX(-45deg) scale(0, 1);
+    }
+
+    nav .wrapper {
+        padding: 1%;
+        display: flex;
+        justify-content: end;
+    }
+
+    .navbar {
+        font-size: 22px;
+    }
+
+    .navbar1 {
+        display: none;
+    }
+
+    .nav-menu {
+        font-size: 12px;
+    }
+
+    h2.head {
+        font-size: 32px;
+    }
+
+    h1.heading1 {
+        font-size: 34px;
+    }
+
+    .text0 {
+        font-size: 25px;
+    }
+
+    .text {
+        padding-top: 0;
+        width: 100%;
+        padding-bottom: 8%;
+    }
+
+    .para0 {
+        font-size: 25px;
+    }
+
+    .paragraph {
+        font-size: 20px;
+    }
+
+    .wrapper .navlinks {
+        gap: 5px;
+    }
+
+    .saucer-scroll {
+        height: auto;
+    }
+
+    .saucer-scroll {
+        grid-template-columns: 1fr;
+    }
+
+    .saucer12 {
+        width: 50%;
+    }
+
+    .Text-N {
+        font-size: 28px;
+    }
+
+    .foot {
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+
+    .container {
+        grid-template-columns: 1fr;
+    }
+
+    .container-one {
+        grid-template-columns: 1fr;
+    }
+
+    img.hero {
+        height: 90%;
+    }
+
+    img.logo0 {
+        width: 20%;
+        padding: 5% 2%;
+    }
+
+    .navlinks li a {
+        font-size: 28px;
+    }
+
+    .list1 {
+        padding: 4% 4%;
+    }
+
+    .list {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        font-size: 25px;
+        width: 100%;
+    }
+
+    .E-text {
+        font-size: 22px;
+        padding-top: 10%;
+        padding-bottom: 3%;
+    }
+
+    .Email {
+        font-size: 22px;
+        height: 50px;
+    }
+
+    .arr {
+        height: 50px;
+        width: 100%;
+    }
+
+    .icon-end {
+        font-size: 75px;
+        padding-top: 3%;
+    }
+
+    .B-logo {
+        width: 50px;
+        padding-top: 40%;
+    }
+
+    .credit {
+        font-size: 22px;
+    }
+
+    .end-foot {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+    .text-1 {
+        font-size: 20px;
+        width: 100%;
+    }
+
+    .hero {
+        line-height: 1.7;
+        width: 100%;
+        text-align: center;
+    }
+
+    .scroll-set {
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    .pic {
+        width: 242px;
+        margin: auto;
+        height: 16rem;
+        margin-bottom: 21%;
+    }
+
+    .hero1 {
+        width: 100%;
+    }
+
+    .pot3 {
+        width: 100%;
+        height: 16rem;
+    }
+
+    .prize {
+        font-size: 22px;
+        height: 16%;
+        top: 48%;
+    }
+
+    .foot-head {
+        font-size: 26px;
+    }
+
+    #index-sec {
+        flex-wrap: wrap;
+    }
+
+    #hero-text {
+        width: 80%;
+        padding: 8% 1%;
+        font-size: 38px;
+        text-align: center;
+    }
+
+    .video {
+        margin-top: 5%;
+    }
+
+    .btn1 {
+        padding: 15px 13%;
+        font-size: 20px;
+    }
+
+    .pic1 {
+        height: 33rem;
+    }
+
+    .btn2 {
+        font-size: 15px;
+    }
+
+    .msg {
+        font-size: 30px;
+        line-height: 48px;
+    }
+
+    .HERO {
+        display: none;
+    }
+}
+
+@media only screen and (max-width:573px) {
+
+    nav {
+        display: block;
+    }
+
+    .navlinks {
+        height: 45px;
+        padding-top: 2%;
+        overflow: hidden;
+        flex-direction: column;
+        align-items: center;
+        transition: all 0.5s ease-in-out;
+    }
+
+    .hamburger-icon {
+        display: block;
+    }
+
+    .fa-x {
+        display: none;
+    }
+
+    nav:has(.hamburger-icon input[type="checkbox"]:checked) .navlinks {
+        height: auto;
+        width: 100%;
+    }
+
+    nav:has(.hamburger-icon input[type="checkbox"]:checked) .fa-bars {
+        display: none;
+    }
+
+    nav:has(.hamburger-icon input[type="checkbox"]:checked) .fa-x {
+        display: inline-block;
+    }
+
+    .navbar {
+        font-size: 11px;
+    }
+
+    .navbar1 {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    .navbar1 p {
+        display: none;
+    }
+
+    .fork {
+        width: 100%;
+    }
+
+    .mug-img {
+        width: 60%;
+    }
+
+    .nav-menu {
+        display: none;
+    }
+
+    nav .wrapper {
+        padding: 1%;
+        display: flex;
+        justify-content: end;
+    }
+
+    h1.head {
+        font-size: 32px;
+    }
+
+    h2.head {
+        font-size: 20px;
+    }
+
+    h1.heading1 {
+        font-size: 25px;
+    }
+
+    h1.heading {
+        font-size: 18px;
+    }
+
+    .head {
+        font-size: 32px;
+    }
+
+    .text0 {
+        font-size: 15px;
+    }
+
+    .text {
+        padding-top: 0;
+        width: 100%;
+        padding-bottom: 8%;
+    }
+
+    .para0 {
+        font-size: 13px;
+    }
+
+    .paragraph {
+        font-size: 12px;
+    }
+
+    .saucer-scroll {
+        height: auto;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .scroll-container {
+        flex-wrap: wrap;
+    }
+
+    .saucer12 {
+        width: 50%;
+    }
+
+    .icon {
+        display: none;
+    }
+
+    .Text-N {
+        font-size: 15px;
+    }
+
+    .foot {
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+
+    .container {
+        grid-template-columns: 1fr;
+    }
+
+    .container-one {
+        grid-template-columns: 1fr;
+    }
+
+    img.hero {
+        height: 90%;
+        padding-top: 22%;
+    }
+
+    .hero-sec {
+        padding-top: 50%;
+    }
+
+    img.logo0 {
+        width: 20%;
+        padding: 5% 2%;
+    }
+
+    .list1 {
+        padding: 5% 5%;
+    }
+
+    .list {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        font-size: 16px;
+    }
+
+    .E-text {
+        font-size: 14px;
+        padding-top: 10%;
+        padding-bottom: 3%;
+    }
+
+    .Email {
+        font-size: 14px;
+        height: 50px;
+    }
+
+    .arr {
+        height: 50px;
+        width: 100%;
+    }
+
+    .icon-end {
+        font-size: 40px;
+        padding-top: 3%;
+    }
+
+    .B-logo {
+        width: 50px;
+        padding-top: 40%;
+    }
+
+    .credit {
+        font-size: 15px;
+    }
+
+    .end-foot {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+    .text-1 {
+        font-size: 15px;
+        width: 100%;
+    }
+
+    button:hover {
+        color: white;
+    }
+
+    .hero {
+        width: 100%;
+        text-align: center;
+    }
+
+    .scroll-set {
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    button:hover:after {
+        transform: skewX(-45deg) scale(0, 1);
+    }
+
+    .pic {
+        width: 242px;
+        margin: auto;
+        height: 16rem;
+        margin-bottom: 21%;
+    }
+
+    .hero1 {
+        width: 100%;
+    }
+
+    .pot3 {
+        width: 100%;
+        height: 16rem;
+    }
+
+    .prize {
+        font-size: 15px;
+        height: 12%;
+        top: 48%;
+    }
+
+    .foot-head {
+        font-size: 24px;
+    }
+
+    #index-sec {
+        flex-wrap: wrap;
+    }
+
+    #hero-text {
+        width: 80%;
+        padding: 8% 1%;
+        font-size: 38px;
+        text-align: center;
+    }
+
+    .video {
+        margin-top: 5%;
+        width: 100%;
+    }
+
+    .btn1 {
+        padding: 9px 13%;
+        font-size: 13px;
+    }
+
+    .pic1 {
+        height: 33rem;
+    }
+
+    .btn2 {
+        font-size: 11px;
+        padding: 2% 6%;
+    }
+
+    .vedo-index {
+        width: 100%;
+        height: 290px;
+    }
+
+    p.para-text {
+        font-size: 11px;
+    }
+
+    .HERO {
+        display: none;
+    }
+}
