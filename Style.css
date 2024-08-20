@@ -197,6 +197,12 @@ nav {
     list-style: none;
 }
 
+li.active {
+    background: black;
+    border-radius: 12px;
+    padding: 2px 12px;
+}
+
 nav .wrapper {
     position: relative;
     background-color: #a1654f;

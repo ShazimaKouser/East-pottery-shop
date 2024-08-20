@@ -27,6 +27,12 @@
     justify-items: center;
 }
 
+li.active {
+    background: black;
+    border-radius: 12px;
+    padding: 0px 12px;
+}
+
 .fork {
     width: 35%;
 }
@@ -86,6 +92,7 @@ ul.mega-links :hover {
 .navlinks li a {
     text-decoration: none;
     color: white;
+    font-size: 18px;
 }
 
 .mega-box {
