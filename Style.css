@@ -207,7 +207,7 @@ nav .wrapper {
     padding: 20px;
 }
 
-.navlinks li:hover .mega-box {
+/* .navlinks li:hover .mega-box {
     top: 65px;
     opacity: 1;
     visibility: visible;
@@ -216,7 +216,7 @@ nav .wrapper {
 
 ul.mega-links :hover {
     cursor: pointer;
-}
+} */
 
 .wrapper .navlinks {
     display: inline-flex;
