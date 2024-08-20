@@ -62,7 +62,7 @@ nav .wrapper {
     padding: 20px;
 }
 
-.navlinks li:hover .mega-box {
+/* .navlinks li:hover .mega-box {
     opacity: 1;
     visibility: visible;
     transition: all 0.3s ease;
@@ -70,7 +70,7 @@ nav .wrapper {
 
 ul.mega-links :hover {
     cursor: pointer;
-}
+} */
 
 .wrapper .navlinks {
     display: inline-flex;
